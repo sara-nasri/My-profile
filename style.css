@@ -1,4 +1,4 @@
-/* General Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -6,7 +6,7 @@
     font-family: Arial, sans-serif;
   }
   
-  /* Body Styling */
+ 
   body {
     background-color: #f5f5f5;
     color: #333;
@@ -15,7 +15,7 @@
     padding: 20px;
   }
   
-  /* Profile Card Styling */
+ 
   .profile-card {
     background: #fff;
     border-radius: 10px;
@@ -58,7 +58,7 @@
     background-color: #524ec4;
   }
   
-  /* Interests Section */
+ 
   .interests-card {
     background: #fff;
     border-radius: 10px;
